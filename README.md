@@ -27,6 +27,14 @@ Copy wincmd.ini file to `c:\Users\YOUR_NAME\AppData\Roaming\GHISLER\`
 
 ![](./imgs/conf-quick-search.png)
 
+### Change mouse selection mode
+
+1. Go to `Configuration > Operation`
+1. Go to `Mouse selection mode` section
+1. Choose `Left mouse button (Windows standard)`
+
+![](.\imgs\conf-mouse-selection.png)
+
 ### Change selection color
 
 1. Go to `Configuration > Color`
